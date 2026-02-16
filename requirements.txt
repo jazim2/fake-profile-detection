@@ -4,3 +4,5 @@ joblib
 streamlit
 instaloader
 validators
+numpy
+
